@@ -13,8 +13,8 @@ int main(){
 		//Salidas: 
 		printf("\n\t Eres mayor de edad.");
 		printf("\n\t Puedes votar.");
-	}
-		
+	}else
+		printf("\n\t Eres menor de edad.");
 		
 	printf("\n\n");
 	return 0;
