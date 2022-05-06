@@ -16,6 +16,6 @@ int main(){
 	x*=2;
 	printf("\n\t x = %d",x);
 
-	return 0;
-
+	return 0;  //Para compilar en linux: gcc -o nombre nombre.c 
+				//Para ejecutrar es: ./nombre
 }
